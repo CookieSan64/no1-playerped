@@ -1,0 +1,21 @@
+{
+    "command_setped": "Donner un PNJ désigné à un joueur",
+    "command_pedmenu": "Affiche la liste des PNJ possédés",
+    "playerid": "ID Joueur",
+    "pedmodel": "Modèle du PNJ",
+    "invalidplayerid": "Le joueur spécifié n'est pas en ligne",
+    "invalidmodel": "Le modèle spécifié n'est pas valide !",
+    "pedoptions": "Options du PNJ",
+    "player": "Joueur",
+    "option": "Option",
+    "giveped": "Donner un PNJ",
+    "removeped": "Supprimer le PNJ",
+    "resetped": "Réinitialiser le PNJ",
+    "resetped_description": "Cela réinitialisera votre PNJ à votre apparence par défaut, sans PNJ.",
+    "nopeds": "Le joueur spécifié n'a pas de PNJ !",
+    "defaultped": " ➡️ PNJ PAR DÉFAUT ⬅️",
+    "setdefault": " 🖱️ DÉFINIR CE PNJ COMME PAR DÉFAUT ",
+    "playerdefault": "Ce PNJ est le PNJ par défaut du joueur",
+    "yourpeds": "Vos PNJ",
+    "removepedplayer": "%s - %s"
+}
